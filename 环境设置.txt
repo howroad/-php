@@ -1,0 +1,2 @@
+1.php.in中设置时区：date.timezone=Asia/Shanghai，重新启动服务
+2.$_COOKIE是区分大小写的
